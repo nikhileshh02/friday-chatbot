@@ -41,7 +41,7 @@ friday-chatbot/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/friday-chatbot.git
+git clone https://github.com/nikhileshh02/friday-chatbot.git
 cd friday-chatbot
 ```
 

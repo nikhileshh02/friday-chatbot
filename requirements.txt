@@ -1,0 +1,7 @@
+pillow
+pandas
+pywhatkit
+pyautogui
+pyttsx3
+SpeechRecognition
+pyaudio

@@ -23,7 +23,7 @@
 ![Login](login_screen.png)
 
 **Chat Interface**
-![Chat UI](chat_ui.png)
+![Chat UI](UI_screen.png)
 
 ## Project Structure
 ```
